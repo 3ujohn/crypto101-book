@@ -23,9 +23,9 @@ ASSETS += Illustrations/DiffieHellman/SharedSecret.svg
 
 # .dot assets
 ASSETS += Illustrations/BlockCipher/AllNodes.svg
-ASSETS += Illustrations/BlockCipher/Decryption.svg
-ASSETS += Illustrations/BlockCipher/Encryption2.svg
-ASSETS += Illustrations/BlockCipher/Encryption.svg
+ASSETS += Illustrations/BlockCipher/BCDecryption.svg
+ASSETS += Illustrations/BlockCipher/BCEncryption2.svg
+ASSETS += Illustrations/BlockCipher/BCEncryption.svg
 
 # .mp assets
 ASSETS += Illustrations/CTR/CTR.svg
